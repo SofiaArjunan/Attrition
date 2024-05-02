@@ -6,7 +6,7 @@ In this analysis, data cleaning and data analysis are done using SQL and dashboa
 
 Here, attrition rate, attrition rate by age, education, department, performance rating, total working years, number of years in the current company and many other aspects are analysed to get an idea on why the employees are leaving the company and to reduce the attrition rate.
 
-#Tools used
+# Tools 
 
 MYSQL - Data cleaning, analysis
 Power BI - Creating Dashboard.
