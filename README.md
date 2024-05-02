@@ -11,6 +11,9 @@ Here, attrition rate, attrition rate by age, education, department, performance 
 MYSQL - Data cleaning, analysis
 Power BI - Creating Dashboard.
 
+
+https://github.com/SofiaArjunan/Attrition/blob/main/attrition1.sql
+
 # Dashboard
 
 ![attrition image](https://github.com/SofiaArjunan/Attrition/assets/168706952/ba7eda25-acb3-46f3-bc4b-79074d0ee462)
